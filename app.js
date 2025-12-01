@@ -1,3 +1,4 @@
-console.log("Hello, World!");
-console.log("This is a simple Node.js application.");
-console.log("Enjoy coding!");
+let heading2=document.getElementById("h2");
+console.log("hello world");
+heading2.style.backgroundColor="red";
+console.log("hello world");
